@@ -1,0 +1,12 @@
+button {
+  width: 150px;
+  height: 50px;
+  position: absolute;
+  background-color: #b56700;
+  font-family: 'Fredoka One', cursive;
+  font-size: 20px;
+}
+
+button:hover {
+  cursor: pointer;
+}
